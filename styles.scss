@@ -5,6 +5,8 @@
     line-height: 1;
 }
 
+$dark-blue: hsl(217, 54%, 11%);
+
 html{
     /* font */
     font-family: "Outfit", serif;
@@ -28,6 +30,7 @@ body{
     display: grid;
     place-content: center;
     background-color: var(--dark-blue-bg);
+    color: ;
 }
 
 li{
