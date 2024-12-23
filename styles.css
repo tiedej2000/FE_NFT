@@ -151,7 +151,8 @@ li h3:hover{
     background-color: var(--cyan-text);
     opacity: 0;
     transition: opacity 0.3s ease;
-    border-radius: 15px;
+    border-radius: 10px;
+    
 }
 
 .main-img:hover::after{
